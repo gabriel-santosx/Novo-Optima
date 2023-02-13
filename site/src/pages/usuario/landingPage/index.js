@@ -1,16 +1,14 @@
-import './index.scss'
-
+import './index.scss';
 
 export default function Index(){
 
+
     return(
         <main>
-
-            <header> </header>
-
-
+            <h1 className="bg-success text-warning"> Hello World!!!!!! </h1>
         </main>
     )
 
-
 }
+
+
